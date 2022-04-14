@@ -1,2 +1,2 @@
-# -Picture-Repository
+# Picture-Repository
 For markdown
